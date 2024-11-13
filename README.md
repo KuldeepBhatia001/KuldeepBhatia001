@@ -3,7 +3,7 @@
 Hi, I’m Kuldeep! 👋 I’m a passionate full-stack developer who loves building meaningful and impactful software solutions. When I’m not working on projects, you’ll find me exploring new music or diving into creative ventures that keep me inspired.
 
 <br />
-<br />
+
 
 ## 🚀 Toolkit
 
